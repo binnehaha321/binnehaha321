@@ -1,10 +1,26 @@
+# 🚩Overview & carrer objectives:
+`console.log("Hello World!");`
 
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=binnehaha321&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=binnehaha321&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=binnehaha321&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Cheers! My name is **Truong Quoc Khanh**, and I recently graduated with First Class Honours in Computer Science. I have gained experience as a junior Frontend Developer and am eager to continue growing in this field. My long-term goal is to become a senior developer, and I am confident that with hard work and dedication, I can achieve this objective.
 
+One of my strongest assets is my ability to communicate effectively and present my ideas clearly, both in written and spoken English. I believe that good communication is essential in any workplace, and I am always willing to listen and provide support to my colleagues.
+
+Aside from my work, I am an avid sports enthusiast and love to stay active. I also enjoy playing music, which allows me to express my creativity and relax after a long day. I consider myself a flexible and adaptable individual who is always open to learning new things and taking on new challenges.
+
+Thank you for considering my background and career objectives. I look forward to the opportunity to contribute to your team and continue growing as a developer.
+
+## 💻Tech Stack:
+- Programming language: JavaScript, TypeScript
+- Framework: ReactJS
+- State management: ReduxJS, Redux Toolkit
+- Middleware: Redux Thunk, Redux Saga
+- UI libs: Antd, MUI, React-strap
+- 
+
+## 📌Find me:
+![https://www.linkedin.com/in/tqk/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://soundcloud.com/binneahihi](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
+![https://truongquockhanh.info](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![https://mail.google.com/mail/?view=cm&fs=1&to=workhanh79@gmail.com.com&su=YOUR SUBJECT HERE&body=YOUR MESSAGE HERE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=binnehaha321&icon=0&color=0)](https://visitcount.itsvg.in)
