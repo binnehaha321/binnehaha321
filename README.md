@@ -20,16 +20,5 @@ Cheers 😄! My name is **Truong Quoc Khanh**, and I recently graduated with Fir
 - UI libs: `Antd`, `MUI`, `React-strap`
 - CSS: `TAILWINDCSS`, `SASS`, `SCSS`, `LESS`
 
-## 📌 Find me:
->**FOR WORK**
-
-![https://www.linkedin.com/in/tqk/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://mail.google.com/mail/?view=cm&fs=1&to=workhanh79@gmail.com.com&su=YOUR SUBJECT HERE&body=YOUR MESSAGE HERE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://truongquockhanh.info](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
->**FOR RELAX**
-
-[![Soundcloud](https://soundcloud.com/binneahihi)](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=binnehaha321&icon=0&color=0)](https://visitcount.itsvg.in)
