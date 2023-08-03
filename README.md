@@ -23,9 +23,9 @@ Cheers 😄! My name is **Truong Quoc Khanh**, and I recently graduated with Fir
 ## 📌 Find me:
 >**FOR WORK**
 
-![LinkedIn](https://www.linkedin.com/in/tqk/)(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=workhanh79@gmail.com.com&su=YOUR SUBJECT HERE&body=YOUR MESSAGE HERE)(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Portfolio](https://truongquockhanh.info)(https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![https://www.linkedin.com/in/tqk/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://mail.google.com/mail/?view=cm&fs=1&to=workhanh79@gmail.com.com&su=YOUR SUBJECT HERE&body=YOUR MESSAGE HERE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![https://truongquockhanh.info](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 >**FOR RELAX**
 
