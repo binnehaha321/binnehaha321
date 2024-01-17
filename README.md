@@ -13,12 +13,12 @@ Cheers 😄! My name is **Truong Quoc Khanh**, and I recently graduated with Fir
 
 ## 💻 Tech Stack:
 - Programming language: `JavaScript`, `TypeScript`
-- Framework: `ReactJS`, `ExpressJS`
+- Framework: `ReactJS`, `NextJS`, `ExpressJS`
 - Database: `MongoDB`, `MySQL`
 - State management: `ReduxJS`, `Redux Toolkit`
 - Middleware: `Redux Thunk`, `Redux Saga`
-- UI libs: `Antd`, `MUI`, `React-strap`
-- CSS: `TAILWINDCSS`, `SASS`, `SCSS`, `LESS`
+- UI libs: `Antd`, `MUI`, `Shadcn UI`, `React-strap`
+- CSS: `TAILWINDCSS`, `SASS`, `SCSS`, `LESS`, `BOOTSTRAP`
 
 ---
 [![](https://visitcount.itsvg.in/api?id=binnehaha321&icon=0&color=0)](https://visitcount.itsvg.in)
