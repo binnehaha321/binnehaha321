@@ -12,7 +12,7 @@ Cheers 😄! My name is **Truong Quoc Khanh**, and I recently graduated with Fir
 ☕ Thank you for considering my background and career objectives. I look forward to the opportunity to contribute to your team and continue growing as a developer.
 
 ## 💻 Tech Stack:
-- Programming language: `JavaScript`, `TypeScript`
+- Programming language: `JavaScript`, `Typescript`
 - Framework: `ReactJS`, `NextJS`, `ExpressJS`
 - Database: `MongoDB`, `MySQL`
 - State management: `ReduxJS`, `Redux Toolkit`
