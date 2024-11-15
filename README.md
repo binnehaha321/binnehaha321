@@ -4,7 +4,7 @@
 Take a look at my current project running in production:
 
 - [pauket](https://pauket.vercel.app)
-- [mosski](https://pauket.vercel.app)
+- [mosski](https://mosski.vercel.app)
 - [blvckrock](https://blvckrock.io/)
 
 Cheers 😄! My name is **Truong Quoc Khanh**, and I recently graduated with First Class Honours in Computer Science. I have gained experience as a junior Frontend Developer and am eager to continue growing in this field. My long-term goal is to become a senior developer, and I am confident that with hard work and dedication, I can achieve this objective.
